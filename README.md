@@ -4,6 +4,8 @@ Un panel virtual de cinco médicos que razona por pasos hasta el diagnóstico. A
 
 **Usar la app:** https://fborrasumh.github.io/diagnostia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23597307.svg)](https://doi.org/10.5281/zenodo.23597307)
+
 **Idiomas:** español (por defecto), inglés, portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 > **No es un producto sanitario.** Es una herramienta docente y de investigación para entender el razonamiento diagnóstico secuencial. No debe usarse para decidir sobre pacientes reales.
@@ -53,7 +55,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *DiagnostIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. (2026). *DiagnostIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23597307](https://doi.org/10.5281/zenodo.23597307)
 
 ## Licencia
 
